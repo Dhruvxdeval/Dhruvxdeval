@@ -1,7 +1,24 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on hackathon projects<br>🌱 I’m currently learning python , data science <br>
+🔭 # Hi, I'm Dhruv
+
+Data Science student at IIT Madras (BS Program)
+Currently learning: Machine Learning · Databases · Python
+
+## What I'm building
+- AI tools using Python + APIs
+- Projects that solve real problems (not just tutorials)
+
+## Currently
+- Diploma: DBMS + Machine Learning Foundations
+- Goal: Ship one real project every 4–6 weeks
+
+## Tech
+Python · SQL · HTML/CSS · (learning) Streamlit · scikit-learn
+
+## Connect
+[LinkedIn](https://www.linkedin.com/in/dhruv-deval-51376026b/) · [Email](dhruvxdeval@email.com) <br>
 
 
 ## 🌐 Socials:

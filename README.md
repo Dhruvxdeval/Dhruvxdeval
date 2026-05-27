@@ -17,8 +17,7 @@ Currently learning: Machine Learning · Databases · Python
 ## Tech
 Python · SQL · HTML/CSS · (learning) Streamlit · scikit-learn
 
-## Connect
-[LinkedIn](https://www.linkedin.com/in/dhruv-deval-51376026b/) · [Email](dhruvxdeval@email.com) <br>
+<br>
 
 
 ## 🌐 Socials:
